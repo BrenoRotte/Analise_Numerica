@@ -1,4 +1,4 @@
-## Copyright (C) 2023 Diego
+## Copyright (C) 2023 Breno
 ##
 ## This program is free software: you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -21,8 +21,8 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: Diego
-## Created: 2023-06-07
+## Author: Breno
+## Created: 2023-11-11
 
 function x = sol_decomp_LDL (A, b)
   [R, Det] = decomposicao_LDL (A);
