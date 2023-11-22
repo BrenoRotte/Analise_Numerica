@@ -20,7 +20,7 @@
 ## @end deftypefn
 
 ## Author: Breno
-## Created: 2023-11-11
+## Created: 2023-11-20
 
 function [H, Hinv, NinfH, NinfHinv]  = hilbert (n)
     for i = 1 : n
