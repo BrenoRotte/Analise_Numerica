@@ -20,7 +20,7 @@
 ## @end deftypefn
 
 ## Author: Breno
-## Created: 2023-11-11
+## Created: 2023-11-20
 
 function sequencia = fibonacci (n)
   if n <= 0
