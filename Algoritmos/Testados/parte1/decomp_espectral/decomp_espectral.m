@@ -1,4 +1,4 @@
-## Copyright (C) 2023 dgsan
+## Copyright (C) 2023 Breno
 ##
 ## This program is free software: you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -19,8 +19,8 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: dgsan <dgsan@LAPTOP-3MAB8DDK>
-## Created: 2023-06-12
+## Author: Breno
+## Created: 2023-11-11
 
 function x = decomp_espectral (A, b)
   [V, LAMBDA]  = eig(A);
