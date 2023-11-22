@@ -1,4 +1,4 @@
-## Copyright (C) 2023 Diego Sanches
+## Copyright (C) 2023 Breno
 ##
 ## This program is free software: you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -20,8 +20,8 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: Diego Sanches
-## Created: 2023-06-10
+## Author: Breno
+## Created: 2023-11-20
 
 function [A, b] = sol_imag_sistem (A, b)
   A = [real(A) -imag(A); imag(A) real(A)];
