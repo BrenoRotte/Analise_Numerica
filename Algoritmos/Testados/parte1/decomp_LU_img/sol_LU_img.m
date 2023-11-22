@@ -1,4 +1,4 @@
-## Copyright (C) 2023 Alvaro
+## Copyright (C) 2023 Breno
 ##
 ## This program is free software: you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -24,8 +24,8 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: Alvaro
-## Created: 2023-06-19
+## Author: Breno
+## Created: 2023-11-11
 
 function x = sol_LU_img (A, b)
   A2 = [real(A) -imag(A); imag(A) real(A)];
