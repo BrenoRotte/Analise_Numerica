@@ -1,4 +1,4 @@
-## Copyright (C) 2023 Diego sanches
+## Copyright (C) 2023 Breno
 ##
 ## This program is free software: you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -19,8 +19,8 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: Diego Sanches
-## Created: 2023-06-08
+## Author: Breno
+## Created: 2023-11-20
 
 function retval = seno (x, n)
   retval = x;
