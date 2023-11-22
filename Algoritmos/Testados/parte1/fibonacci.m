@@ -1,4 +1,4 @@
-## Copyright (C) 2023 Diego Sanches Nere dos Santos
+## Copyright (C) 2023 Breno
 ##
 ## This program is free software: you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -19,8 +19,8 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: Diego Sanches Nere dos Santos
-## Created: 2023-06-05
+## Author: Breno
+## Created: 2023-11-11
 
 function sequencia = fibonacci (n)
   if n <= 0
