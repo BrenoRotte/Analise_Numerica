@@ -1,4 +1,4 @@
-## Copyright (C) 2023 Diego Sanches Nere dos Santos
+## Copyright (C) 2023 Breno
 ##
 ## This program is free software: you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -20,8 +20,8 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: Diego Sanches Nere dos Santos
-## Created: 2023-05-25
+## Author: Breno
+## Created: 2023-11-20
 
 function [A, Det, Pivot] = decomposicao_LU (A)
   n = size(A,1);
