@@ -1,4 +1,4 @@
-## Copyright (C) 2023 Diego Sanches
+## Copyright (C) 2023 Breno
 ##
 ## This program is free software: you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -19,8 +19,8 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: Diego Sanches
-## Created: 2023-06-25
+## Author: Breno
+## Created: 2023-11-20
 
 function P = interpola_sist_linear (x, x0, y0, x1, y1)
   P = y0 + ((y1-y0)/(x1-x0))*(x - x0);
