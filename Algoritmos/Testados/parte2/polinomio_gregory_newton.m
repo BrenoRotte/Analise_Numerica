@@ -1,4 +1,4 @@
-## Copyright (C) 2023 Diego Sanchesx
+## Copyright (C) 2023 Breno
 ##
 ## This program is free software: you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -19,8 +19,8 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: Diego Sanches
-## Created: 2023-05-26
+## Author: Breno
+## Created: 2023-11-20
 
 function Pz = polinomio_gregory_newton (m, x, y, z)
   for i = 1 : m
