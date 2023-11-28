@@ -20,7 +20,7 @@
 ## @end deftypefn
 
 ## Author: Breno
-## Created: 2023-05-23
+## Created: 2023-11-11
 
 function [A, Det] = decomposicao_LDL (A)
     n = size(A,1);
