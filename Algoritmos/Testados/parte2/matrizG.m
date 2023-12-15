@@ -1,4 +1,4 @@
-## Copyright (C) 2023 Alvaro
+## Copyright (C) 2023 Breno
 ##
 ## This program is free software: you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -19,8 +19,8 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: Alvaro <Alvaro@DESKTOP-TG63L3N>
-## Created: 2023-07-21
+## Author: Breno
+## Created: 2023-12-05
 
 function G = matrizG (x)
   m = length(x);
