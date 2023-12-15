@@ -1,4 +1,4 @@
-## Copyright (C) 2023 aluno
+## Copyright (C) 2023 Breno
 ##
 ## This program is free software: you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -19,8 +19,8 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: aluno <aluno@LI1-150814>
-## Created: 2023-06-27
+## Author: Brenp
+## Created: 2023-12-05
 
 function resposta = vetores_iguais (x, y)
   if size(x, 2) == size(y, 2) && size(x,1) == size(y,1) == 1
