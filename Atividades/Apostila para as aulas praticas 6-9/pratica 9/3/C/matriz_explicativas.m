@@ -26,7 +26,7 @@
 ## @end deftypefn
 
 ## Author: Breno
-## Created: 2023-07-05
+## Created: 2023-12-05
 
 function [MatX, Info] = matriz_explicativas (n, v, p, ii, x)
   if p < v
