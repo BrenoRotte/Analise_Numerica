@@ -1,4 +1,4 @@
-## Copyright (C) 2023 aluno
+## Copyright (C) 2023 Breno
 ##
 ## This program is free software: you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -25,8 +25,8 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: aluno <aluno@LI1-150814>
-## Created: 2023-06-27
+## Author: Breno
+## Created: 2023-12-05
 
 function [sz, Info] = splines_avaliar (n, x, y, m, z, ts)
   if ts == 0
