@@ -1,4 +1,4 @@
-## Copyright (C) 2023 Diego
+## Copyright (C) 2023 Breno
 ##
 ## This program is free software: you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -23,8 +23,8 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: Diego
-## Created: 2023-05-20
+## Author: Breno
+## Created: 2023-12-05
 
 function x = subst_sucess (L, c)
   if size(L, 1) == size(L, 2) && size(c, 1) == size(L, 1)
