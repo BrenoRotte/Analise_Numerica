@@ -21,7 +21,7 @@
 ## @end deftypefn
 
 ## Author: Breno
-## Created: 2023-11-20
+## Created: 2023-12-05
 
 function [A, Det, Pivot] = decomposicao_LU (A)
   n = size(A,1);
