@@ -20,7 +20,7 @@
 ## @end deftypefn
 
 ## Author: Breno
-## Created: 2023-11-20
+## Created: 2023-12-05
 
 function x = sol_decomp_LU (A, b)
   [R, Det, Pivot] = decomposicao_LU(A);
