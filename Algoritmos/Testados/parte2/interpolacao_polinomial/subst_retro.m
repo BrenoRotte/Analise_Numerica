@@ -22,7 +22,7 @@
 ## @end deftypefn
 
 ## Author: Breno
-## Created: 2023-11-20
+## Created: 2023-12-05
 
 function x = subst_retro(U, d)
   if size(U, 1) == size(U, 2) && size(d, 1) == size(U, 1)
