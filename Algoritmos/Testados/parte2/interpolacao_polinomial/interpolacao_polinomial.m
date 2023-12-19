@@ -23,7 +23,7 @@
 ## @end deftypefn
 
 ## Author: Breno
-## Created: 2023-11-20
+## Created: 2023-12-05
 
 function [Yinter, coef, Conderro] = interpolacao_polinomial(x, y, ValInter)
   if length(x) ~= length(y)
