@@ -22,7 +22,7 @@
 ## @end deftypefn
 
 ## Author: Breno
-## Created: 2023-11-20
+## Created: 2023-12-05
 
 function y = subst_sucess_pivotal (L, b, Pivot)
   n = size(L, 1);
