@@ -29,7 +29,7 @@
 ## @end deftypefn
 
 ## Author: Breno
-## Created: 2023-01-18
+## Created: 2024-01-18
 
 function [Den, VetC, Info] = coeficientes_cotes (n)
   if n < 1 || n > 10
