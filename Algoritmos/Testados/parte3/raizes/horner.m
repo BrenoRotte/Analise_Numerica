@@ -1,4 +1,4 @@
-## Copyright (C) 2023 Diego Sanches
+## Copyright (C) 2023 Breno
 ##
 ## This program is free software: you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -23,8 +23,8 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: Diego Sanches
-## Created: 2023-07-27
+## Author: Breno
+## Created: 2024-01-18
 
 function y = horner (n, c, a)
   y = c(1);
