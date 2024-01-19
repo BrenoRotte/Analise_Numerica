@@ -1,4 +1,4 @@
-## Copyright (C) 2023 dgsan
+## Copyright (C) 2023 Breno
 ##
 ## This program is free software: you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -19,8 +19,8 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: dgsan <dgsan@LAPTOP-3MAB8DDK>
-## Created: 2023-08-16
+## Author: Breno
+## Created: 2024-01-18
 
 function [L] = limites_raizes_grafico(n,c,f)
   if(c(1) == 0)
