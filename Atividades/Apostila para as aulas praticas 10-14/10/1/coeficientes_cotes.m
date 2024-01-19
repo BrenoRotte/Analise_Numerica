@@ -1,4 +1,4 @@
-## Copyright (C) 2023 PID UFOP
+## Copyright (C) 2023 Breno
 ##
 ## This program is free software: you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -28,8 +28,8 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: PID UFOP <PID UFOP@OP-151234>
-## Created: 2023-07-20
+## Author: Breno
+## Created: 2024-01-18
 
 # Obs.:
 # falta a função resto
