@@ -1,4 +1,4 @@
-## Copyright (C) 2023 Diego Sanches
+## Copyright (C) 2023 Breno
 ##
 ## This program is free software: you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -35,8 +35,8 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: Diego Sanches
-## Created: 2023-07-31
+## Author: Breno
+## Created: 2024-01-18
 
 function [Integral, Info] = newton_cotes_dupla (ax, bx, nx, mx, ay, by, ny, my, f)
   d = [2 6 8 90 288 840 17280 28350];
