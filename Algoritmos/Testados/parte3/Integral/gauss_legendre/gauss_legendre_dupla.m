@@ -33,7 +33,7 @@
 ## @end deftypefn
 
 ## Author: Breno
-## Created: 2023-01-18
+## Created: 2024-01-18
 
 function [Integral, Info] = gauss_legendre_dupla (ax, bx, nx, ay, by, ny, f)
   Integral = 0;
