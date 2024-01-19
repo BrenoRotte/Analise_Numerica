@@ -29,7 +29,7 @@
 ## @end deftypefn
 
 ## Author: Breno
-## Created: 2023-01-18
+## Created: 2024-01-18
 
 function [Integ, Info] = gauss_legendre (a, b, n, f)
   # calculo das abscissas e pesos
