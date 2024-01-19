@@ -1,4 +1,4 @@
-## Copyright (C) 2023 Diego Sanches
+## Copyright (C) 2023 Breno
 ##
 ## This program is free software: you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -25,8 +25,8 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: Diego Sanches
-## Created: 2023-07-24
+## Author: Breno
+## Created: 2023-01-18
 
 function [Integral, Delta, Iter, Info] = gauss_legendre_iterativo (a, b, Toler, IterMax, f)
   Iter = 1;
