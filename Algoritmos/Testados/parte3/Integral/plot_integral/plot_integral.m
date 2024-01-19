@@ -1,4 +1,4 @@
-## Copyright (C) 2023 dgsan
+## Copyright (C) 2023 Breno
 ##
 ## This program is free software: you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -19,8 +19,8 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: dgsan <dgsan@LAPTOP-3MAB8DDK>
-## Created: 2023-08-21
+## Author: Breno
+## Created: 2024-01-18
 
 function plot_integral (f, a, b)
   tamanho_marca = 10; %Define o tamanho do marcador do grafico
