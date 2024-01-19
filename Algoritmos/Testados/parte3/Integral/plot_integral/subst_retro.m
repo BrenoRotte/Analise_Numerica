@@ -1,4 +1,4 @@
-## Copyright (C) 2023 dgsan
+## Copyright (C) 2023 Breno
 ##
 ## This program is free software: you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -21,8 +21,8 @@
 ## @seealso{}
 ## @end deftypefn
 
-## Author: Diego
-## Created: 2023-05-17
+## Author: Breno
+## Created: 2024-01-18
 
 function x = subst_retro(U, d)
   if size(U, 1) == size(U, 2) && size(d, 1) == size(U, 1)
